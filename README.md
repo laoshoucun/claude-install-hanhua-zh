@@ -5,7 +5,7 @@
 
 ## 仓库介绍
 
-本仓库内容整理自 [老手村](https://www.laoshoucun.com/)，已收录 15 篇，每篇都保留官网原文链接：可以在这里直接读，也可以 `git clone` 到本地检索。
+本仓库内容整理自 [老手村](https://www.laoshoucun.com/)，已收录 17 篇，每篇都保留官网原文链接：可以在这里直接读，也可以 `git clone` 到本地检索。
 
 Claude 是 Anthropic 推出的大模型，Claude Code 是它的命令行编程工具。国内用户卡住的地方通常不在模型本身，而在装这一步：npm 那条路官方已经弃用，照老教程装会装出问题；桌面版和命令行的能力边界也不一样。本仓库收录老手村 Claude Code 栏目里偏实操的文章，讲清楚怎么装、装完怎么用、插件和技能怎么接。
 
@@ -24,7 +24,7 @@ Claude 分两种用法：网页版直接用，桌面客户端和命令行工具�
 
 ⛔ 最常见的一个坑：照着旧教程用 npm 装 Claude Code，装出来的版本官方已经不再维护。仓库里《Claude Code安装教程2026最新版》那篇专门讲了这个，装之前先看它。
 
-安装步骤、登录、以及装完之后怎么接插件和技能，仓库里 15 篇按时间倒序排好了。
+安装步骤、登录、以及装完之后怎么接插件和技能，仓库里 17 篇按时间倒序排好了。
 
 ## 主要特点
 
@@ -44,7 +44,7 @@ Claude 分两种用法：网页版直接用，桌面客户端和命令行工具�
 
 **装完登录不上怎么办？** 先确认网络能到官方服务，再检查账号地区限制。这部分不展开，按官方提示走。
 
-## 文章目录（15 篇）
+## 文章目录（17 篇）
 
 - 2026-11-21 · [想发布自己的Claude技能？官方仓库这3条规范先看清楚](https://www.laoshoucun.com/claudedt/3703) · [仓库内阅读](docs/3703-想发布自己的Claude技能？官方仓库这3条规范先看清楚.md)
 - 2026-11-21 · [Claude Code官方技能怎么装：两步接入官方插件市场（实操教程）](https://www.laoshoucun.com/claudedt/3702) · [仓库内阅读](docs/3702-ClaudeCode官方技能怎么装：两步接入官方插件市场（实操教程）.md)
@@ -52,6 +52,8 @@ Claude 分两种用法：网页版直接用，桌面客户端和命令行工具�
 - 2026-11-20 · [Claude自定义技能怎么做？一个SKILL.md文件就够了，官方模板直接抄](https://www.laoshoucun.com/claudedt/3700) · [仓库内阅读](docs/3700-Claude自定义技能怎么做？一个SKILL.md文件就够了，官方模板直接抄.md)
 - 2026-11-20 · [Claude Code官方插件大盘点：13个免费插件，从代码审查到安全检查全齐了](https://www.laoshoucun.com/claudedt/3699) · [仓库内阅读](docs/3699-ClaudeCode官方插件大盘点：13个免费插件，从代码审查到安全检查全齐了.md)
 - 2026-11-20 · [Claude Code安装教程2026最新版：npm已弃用，官方推荐这四种方式](https://www.laoshoucun.com/claudedt/3698) · [仓库内阅读](docs/3698-ClaudeCode安装教程2026最新版：npm已弃用，官方推荐这四种方式.md)
+- 2026-11-04 · [Claude Code 额度不够用，让它当项目经理，活交给免费 Agent 干](https://www.sz003.com/codexdt/2752) · [仓库内阅读](docs/2752-ClaudeCode额度不够用，让它当项目经理，活交给免费Agent干.md)
+- 2026-11-03 · [Grok Bot 怎么用：把 Claude Code 和 Codex 接进去，手机上派活](https://www.sz003.com/codexdt/2751) · [仓库内阅读](docs/2751-GrokBot怎么用：把ClaudeCode和Codex接进去，手机上派活.md)
 - 2026-10-16 · [Claude Code 桌面版能同时开好几个会话，写代码开始像带队](https://www.laoshoucun.com/claudedt/3585) · [仓库内阅读](docs/3585-ClaudeCode桌面版能同时开好几个会话，写代码开始像带队.md)
 - 2026-10-05 · [Claude Code 开放了改装权，程序员把编码工具玩成了乐高](https://www.laoshoucun.com/claudedt/3483) · [仓库内阅读](docs/3483-ClaudeCode开放了改装权，程序员把编码工具玩成了乐高.md)
 - 2026-09-28 · [Anthropic 把工作台改名游乐场：不写代码也能跑通 Claude 接口](https://www.laoshoucun.com/claudedt/3396) · [仓库内阅读](docs/3396-Anthropic把工作台改名游乐场：不写代码也能跑通Claude接口.md)
