@@ -5,7 +5,7 @@
 
 ## 仓库介绍
 
-本仓库内容整理自 [老手村](https://www.laoshoucun.com/)，已收录 10 篇，每篇都保留官网原文链接：可以在这里直接读，也可以 `git clone` 到本地检索。
+本仓库内容整理自 [老手村](https://www.laoshoucun.com/)，已收录 9 篇，每篇都保留官网原文链接：可以在这里直接读，也可以 `git clone` 到本地检索。
 
 Claude 是 Anthropic 推出的大模型，Claude Code 是它的命令行编程工具。国内用户卡住的地方通常不在模型本身，而在装这一步：npm 那条路官方已经弃用，照老教程装会装出问题；桌面版和命令行的能力边界也不一样。本仓库收录老手村 Claude Code 栏目里偏实操的文章，讲清楚怎么装、装完怎么用、插件和技能怎么接。
 
@@ -24,7 +24,7 @@ Claude 分两种用法：网页版直接用，桌面客户端和命令行工具�
 
 ⛔ 最常见的一个坑：照着旧教程用 npm 装 Claude Code，装出来的版本官方已经不再维护。仓库里《Claude Code安装教程2026最新版》那篇专门讲了这个，装之前先看它。
 
-安装步骤、登录、以及装完之后怎么接插件和技能，仓库里 10 篇按时间倒序排好了。
+安装步骤、登录、以及装完之后怎么接插件和技能，仓库里 9 篇按时间倒序排好了。
 
 ## 主要特点
 
@@ -44,7 +44,7 @@ Claude 分两种用法：网页版直接用，桌面客户端和命令行工具�
 
 **装完登录不上怎么办？** 先确认网络能到官方服务，再检查账号地区限制。这部分不展开，按官方提示走。
 
-## 文章目录（10 篇）
+## 文章目录（9 篇）
 
 - 2026-11-21 · [想发布自己的Claude技能？官方仓库这3条规范先看清楚](https://www.laoshoucun.com/claudedt/3703) · [仓库内阅读](docs/3703-想发布自己的Claude技能？官方仓库这3条规范先看清楚.md)
 - 2026-11-21 · [Claude Code官方技能怎么装：两步接入官方插件市场（实操教程）](https://www.laoshoucun.com/claudedt/3702) · [仓库内阅读](docs/3702-ClaudeCode官方技能怎么装：两步接入官方插件市场（实操教程）.md)
@@ -54,7 +54,6 @@ Claude 分两种用法：网页版直接用，桌面客户端和命令行工具�
 - 2026-11-20 · [Claude Code安装教程2026最新版：npm已弃用，官方推荐这四种方式](https://www.laoshoucun.com/claudedt/3698) · [仓库内阅读](docs/3698-ClaudeCode安装教程2026最新版：npm已弃用，官方推荐这四种方式.md)
 - 2026-10-16 · [Claude Code 桌面版能同时开好几个会话，写代码开始像带队](https://www.laoshoucun.com/claudedt/3585) · [仓库内阅读](docs/3585-ClaudeCode桌面版能同时开好几个会话，写代码开始像带队.md)
 - 2026-10-05 · [Claude Code 开放了改装权，程序员把编码工具玩成了乐高](https://www.laoshoucun.com/claudedt/3483) · [仓库内阅读](docs/3483-ClaudeCode开放了改装权，程序员把编码工具玩成了乐高.md)
-- 2026-09-26 · [Opus 5.5 三个新玩法：搭乐高，改宜家说明书，复刻塞尔达](https://www.laoshoucun.com/claudedt/3360) · [仓库内阅读](docs/3360-Opus5.5三个新玩法：搭乐高，改宜家说明书，复刻塞尔达.md)
 - 2026-09-18 · [Claude Code 团队怎么用 Claude Code：八成日常活交给 AI，工程师只下一个目标](https://www.laoshoucun.com/claudedt/3213) · [仓库内阅读](docs/3213-ClaudeCode团队怎么用ClaudeCode：八成日常活交给AI，工程师只.md)
 
 ---
